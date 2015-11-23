@@ -1,1 +1,1 @@
-flower
+-e git+https://github.com/henrybaxter/flower.git#egg=flower
